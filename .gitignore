@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.turbo/
+coverage/
+dist/
+.env*
+!.env.example
+*.tsbuildinfo
+Untitled-1.txt

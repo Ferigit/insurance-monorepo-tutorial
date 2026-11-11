@@ -1,0 +1,12 @@
+{
+  "name": "@tutorial/eslint-config",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./next": "./next.js"
+  },
+  "dependencies": {
+    "eslint-config-next": "16.4.6"
+  }
+}

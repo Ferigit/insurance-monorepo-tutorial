@@ -1,0 +1,1 @@
+{ "extends": "@tutorial/typescript-config/base.json", "include": ["src"] }
